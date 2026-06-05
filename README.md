@@ -2,6 +2,7 @@
    * Test http://play.typeracer.com/  
    * Game https://typegun.com/  
    * Test https://www.keyhero.com/
+   * Test https://keyboardtester.click/keyboard_typing_test.php
    * Game https://typerapp.now.sh/
    * Test https://typinghq.com/ 
    * Test https://typenconquer.io/ 
