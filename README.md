@@ -7,7 +7,7 @@
    * Test https://typenconquer.io/ 
    * Test https://typetest.io/ 
    * Test https://typing-speed-test.aoeu.eu/  
-   * Test https://monkey-type.com/
+   * Test https://monkey-type.com/ 
    * Tutorial https://keytopia.org/
 
 ## Webapp code
