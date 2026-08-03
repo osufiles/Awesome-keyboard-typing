@@ -1,23 +1,24 @@
 ## Webapp general 
-   * Test http://play.typeracer.com/  
-   * Game https://typegun.com/  
+   * Test http://play.typeracer.com/   
    * Test https://www.keyhero.com/
    * Test https://keyboardtester.click/keyboard_typing_test.php
-   * Game https://typerapp.now.sh/
    * Test https://typinghq.com/ 
    * Test https://typenconquer.io/ 
    * Test https://typetest.io/ 
    * Test https://typing-speed-test.aoeu.eu/  
-   * Test https://monkey-type.com/ 
-   * Tutorial https://keytopia.org/ — free touch typing: 3D finger-placement lessons, adaptive practice, AI insights, custom themes, heatmaps/bigrams, 2D/3D races, tournaments, classrooms, badges & certifications
+   * Test https://monkeytype.com/
+   * Tutorial https://keytopia.org/
+   * Practice https://typingmentor.com/lessons/right-hand
 
 ## Webapp code
    * Test http://www.speedcoder.net/  
-   * Tutorial https://typing.io/lessons  
-   * Test http://nimblecode.io/#/  
+   * Tutorial https://typing.io/lessons    
    * Tutorial https://wwwtyro.github.io/keyzen/
+   * Practice https://haxxorwpm.0s.is
+
 ## Webapp audio
-   * Test http://www.listen-and-write.com/  
+   * Test http://www.listen-and-write.com/
+
 ## PC
    * Game `win` https://rogue-sprite.itch.io/hot-type , for `linux` try using https://www.winehq.org/
    * Test in cli `linux` https://github.com/rr-/10ff , for `windows` https://www.msys2.org/ is working fine
@@ -28,5 +29,6 @@
     git pull origin pull/47/head
    ```
    * Game `linux/mac/win` http://www.typefighters.com/download.php
+
 ## Contribute
 Contriutions are welcome! Create PR or open issues.
