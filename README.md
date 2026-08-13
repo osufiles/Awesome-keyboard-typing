@@ -9,6 +9,7 @@
    * Test https://monkeytype.com/
    * Tutorial https://keytopia.org/
    * Practice https://typingmentor.com/lessons/right-hand
+   * Practice https://hkeys.app/ app keyboard shortcuts, reference and drill, not typing speed
 
 ## Webapp code
    * Test http://www.speedcoder.net/  
