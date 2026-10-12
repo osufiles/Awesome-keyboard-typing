@@ -10,12 +10,14 @@
    * Tutorial https://keytopia.org/
    * Practice https://typingmentor.com/lessons/right-hand
    * Test https://smart-type.com/
+   * Test https://typing.rerivo.com/
 
 ## Webapp code
    * Test http://www.speedcoder.net/  
    * Tutorial https://typing.io/lessons    
    * Tutorial https://wwwtyro.github.io/keyzen/
    * Practice https://haxxorwpm.0s.is
+   * Practice https://typing.rerivo.com/typing-practice-for-programmers.html
 
 ## Webapp audio
    * Test http://www.listen-and-write.com/
