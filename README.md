@@ -12,6 +12,8 @@
    * Test https://smart-type.com/
    * Test https://keyrace.tooleek.com/en/
    * Test https://fastfingerrace.com/en
+   * Test https://typing.rerivo.com/1-minute-typing-test.html
+   * Practice https://typing.rerivo.com/typing-practice-for-programmers.html
 
 ## Webapp code
    * Test http://www.speedcoder.net/  
