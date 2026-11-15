@@ -12,6 +12,7 @@
    * Test https://smart-type.com/
    * Test https://keyrace.tooleek.com/en/
    * Test https://fastfingerrace.com/en
+   * Test https://free-typing-test.web-free.site/
 
 ## Webapp code
    * Test http://www.speedcoder.net/  
